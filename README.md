@@ -10,7 +10,7 @@
 ###
 
 
-<img align="right" height="150" src="https://tenor.com/pt-BR/view/good-morning-cars-mate-gif-22601616"  />
+<img align="right" height="150" src="good-morning.gif">
 
 ###
 
