@@ -9,9 +9,9 @@
     </div>
 
   <div align="right">
-        <img align="right" height="150" src="good-morning.gif">
+        <img align="right" height="100" src="good-morning.gif">
     </div>
-    
+
 </div>
 
 ###
